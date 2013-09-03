@@ -5,7 +5,7 @@ Fulcrum (http://wholemeal.co.nz/projects/fulcrum.html) のcookbook
 
 インストール、初期設定、railsで実行まで
 
-実行時環境(RAILS_ENV)はdevelopmentで、DBはSQLiteを使用します。
+検証用として作成したので実行時環境(RAILS_ENV)はdevelopmentで、DBはSQLiteを使用します。
 
 Requirements
 ------------
